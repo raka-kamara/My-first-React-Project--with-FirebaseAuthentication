@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Oceanfront Villa Retreat",
+      "segment_name": "Luxury",
+      "description": "Experience unparalleled luxury in this stunning oceanfront villa boasting panoramic views and world-class amenities.",
+      "price": "$10,000,000",
+      "status": "sale",
+      "area": "8,000 sq ft",
+      "location": "Malibu, California",
+      "facilities": ["Infinity Pool", "Private Beach Access", "Spa", "Home Theater"],
+      "image": "https://i.ibb.co/ftKpHVD/oceanfront-villa.jpg"
+    },
+    {
+      "id": 2,
+      "estate_title": "Luxurious Penthouse in Manhattan",
+      "segment_name": "Luxury",
+      "description": "Live the high life in this exquisite penthouse featuring unparalleled views of the Manhattan skyline and lavish amenities.",
+      "price": "$15,000,000",
+      "status": "sale",
+      "area": "5,000 sq ft",
+      "location": "New York City, New York",
+      "facilities": ["Sky Lounge", "Private Elevator", "Gourmet Kitchen", "Concierge Service"],
+      "image": "https://i.ibb.co/42c3Qfp/manhattan-penthouse.jpg"
+    },
+    {
+      "id": 3,
+      "estate_title": "Exclusive Beachfront Mansion",
+      "segment_name": "Luxury",
+      "description": "Indulge in luxury living in this exclusive beachfront mansion offering unrivaled elegance and serenity.",
+      "price": "$20,000,000",
+      "status": "sale",
+      "area": "10,000 sq ft",
+      "location": "Miami Beach, Florida",
+      "facilities": ["Private Pool", "Direct Beach Access", "Home Gym", "Wine Cellar"],
+      "image": "https://i.ibb.co/K60DXCN/beachfront-mansion.jpg"
+    },
+    {
+      "id": 4,
+      "estate_title": "Luxury Resort & Spa",
+      "segment_name": "Luxury",
+      "description": "Escape to paradise in this luxurious resort and spa offering unparalleled relaxation and world-class amenities.",
+      "price": "$30,000,000",
+      "status": "sale",
+      "area": "20 acres",
+      "location": "Bora Bora, French Polynesia",
+      "facilities": ["Overwater Bungalows", "Infinity Pools", "Five-Star Dining", "Private Helipad"],
+      "image": "https://i.ibb.co/kJjPVsq/luxury-resort.jpg"
+    },
+    
+    {
+        "id": 5,
+        "estate_title": "Private Island Paradise",
+        "segment_name": "Luxury",
+        "description": "Own your own private island retreat, complete with pristine beaches, lush landscapes, and luxurious accommodations.",
+        "price": "$50,000,000",
+        "status": "sale",
+        "area": "50 acres",
+        "location": "Caribbean Sea",
+        "facilities": ["Exclusive Beachfront Villas", "Yacht Dock", "Tennis Courts", "Helipad"],
+        "image": "https://i.ibb.co/0mnB3JV/private-island.jpg"
+      },
+      {
+        "id": 6,
+        "estate_title": "Luxury Mountain Retreat",
+        "segment_name": "Luxury",
+        "description": "Escape to the mountains in this luxurious retreat offering breathtaking views, tranquility, and unparalleled amenities.",
+        "price": "$8,000,000",
+        "status": "sale",
+        "area": "6,000 sq ft",
+        "location": "Aspen, Colorado",
+        "facilities": ["Ski-In/Ski-Out Access", "Outdoor Hot Tub", "Wine Cellar", "Home Theater"],
+        "image": "https://i.ibb.co/W0q707d/mountain-retreat.jpg"
+      },
+      {
+        "id": 7,
+        "estate_title": "Exquisite Tuscan Villa",
+        "segment_name": "Luxury",
+        "description": "Step into a world of timeless elegance in this exquisite Tuscan villa featuring lush gardens, stunning architecture, and luxurious interiors.",
+        "price": "$12,500,000",
+        "status": "sale",
+        "area": "7,500 sq ft",
+        "location": "Tuscany, Italy",
+        "facilities": ["Infinity Pool", "Vineyard", "Outdoor Kitchen", "Fitness Center"],
+        "image": "https://i.ibb.co/6rkWWTB/tuscan-villa.jpg"
+      },
+      {
+        "id": 8,
+        "estate_title": "Ultra-Modern Beach House",
+        "segment_name": "Luxury",
+        "description": "Embrace modern luxury in this sleek and stylish beach house boasting minimalist design, cutting-edge technology, and breathtaking ocean views.",
+        "price": "$7,500,000",
+        "status": "sale",
+        "area": "4,500 sq ft",
+        "location": "Los Angeles, California",
+        "facilities": ["Rooftop Deck", "Home Automation System", "Glass-Enclosed Garage", "Outdoor Shower"],
+        "image": "https://i.ibb.co/sg4BBG6/modern-beach-house.jpg"
+      },
+      {
+        "id": 9,
+        "estate_title": "Magnificent French Château",
+        "segment_name": "Luxury",
+        "description": "Live like royalty in this magnificent French château, complete with opulent furnishings, expansive grounds, and unparalleled grandeur.",
+        "price": "$25,000,000",
+        "status": "sale",
+        "area": "15,000 sq ft",
+        "location": "Provence, France",
+        "facilities": ["Formal Gardens", "Wine Cellar", "Ballroom", "Helipad"],
+        "image": "https://i.ibb.co/2Kw6f2X/french-chateau.jpg"
+      }
+  ]
